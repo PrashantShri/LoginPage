@@ -25,7 +25,6 @@ public class LoginPage {
         } else {
             System.out.println("Login failed! Incorrect username or password.");
         }
-
-        scanner.close();
+         scanner.close();
     }
 }
